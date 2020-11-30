@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css2?family=Itim&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Palanquin+Dark&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Ramabhadra&display=swap");
+
+#heading{
+    font-family: 'Palanquin Dark', sans-serif;
+}
+
+#typed{
+    font-family: 'Itim', cursive;
+}
+
+#home-heading {
+    top: 300px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#home-heading2 {
+    top: 400px;
+    text-align: center;
+}
+
+.card-container {
+    margin: auto;
+    top: 751px;
+}
+
+.card-title{
+    font-family: 'Ramabhadra', sans-serif;
+    color: black;
+}
+.card-text{
+    font-family: Verdana,sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+    color: black;
+}

@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Itim&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Palanquin+Dark&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Ramabhadra&display=swap");
+
+.card-title{
+    font-family: 'Ramabhadra', sans-serif;
+    color: black;
+}
+.card-text{
+    font-family: Verdana,sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+    color: black;
+}

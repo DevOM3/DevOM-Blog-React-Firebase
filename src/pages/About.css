@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Ramabhadra&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Grandstander:wght@300&display=swap");
+
+.about-title{
+    font-family: 'Ramabhadra', sans-serif;
+}
+.about-body{
+    font-family: 'Grandstander', cursive;
+    letter-spacing: 2;
+}

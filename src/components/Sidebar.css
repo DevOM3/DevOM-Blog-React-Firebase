@@ -1,0 +1,29 @@
+.sidebar{
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    height: fit-content;
+}
+
+.navbar {
+    justify-content: space-between;
+}
+
+.menuIcon {
+    background-color: #343A40; 
+}
+
+.nav-link {
+    text-decoration: none;
+    color: grey;
+    display: inline-block;
+}
+
+.nav-link:hover{
+    color: white;
+}
+
+li:hover, li:hover, li:hover, li:hover {
+    color: white;
+}
+
